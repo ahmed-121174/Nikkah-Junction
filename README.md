@@ -34,7 +34,7 @@ A modern, AI assisted matchmaking platform designed to simplify and secure the m
 - Hurray!!! No charges, It's free.
 
 ### 5. Profile Verification System
-- Phone-based verification to ensure user authenticity and maintain privacy.
+- Email-based verification to ensure user authenticity and maintain privacy.
 
 ### 6. Consultant Support Module
 - Access to AI-powered matchmaking consultants for personalized guidance.
