@@ -67,6 +67,6 @@ A modern, AI assisted matchmaking platform designed to simplify and secure the m
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/nikah-junction.git
-cd nikah-junction
+git clone https://github.com/ahmed-121174/Nikkah-Junction.git
+cd Nikkah-Junction
 
